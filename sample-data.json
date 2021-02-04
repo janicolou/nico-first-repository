@@ -18,5 +18,25 @@
       "name": "Chin Chin",
       "city": "Malasiqui",
       "age" : 15
-    }
+    },
+    {
+        "name": "Eli Amore",
+        "city": "Pangasinan",
+        "age" : 17
+      },
+      {
+        "name": "Jan Louise",
+        "city": "Silang",
+        "age" : 21
+      },
+      {
+        "name": "Jollibee",
+        "city": "Bee Hive",
+        "age" : 30
+      },
+      {
+        "name": "Burger King",
+        "city": "Oven",
+        "age" : 14
+      }
 ]
