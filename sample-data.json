@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Lea Eshedo",
+      "city": "Malasiqui",
+      "age" : 18
+    },
+    {
+      "name": "Nico Gabo",
+      "city": "Silang",
+      "age" : 20
+    },
+    {
+      "name": "Chow King",
+      "city": "Malasiqui",
+      "age" : 19
+    },
+    {
+      "name": "Chin Chin",
+      "city": "Malasiqui",
+      "age" : 15
+    }
+]
