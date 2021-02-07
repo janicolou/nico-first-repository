@@ -42,7 +42,7 @@ console.log("\nfilter:");
 console.log("\nmap:");
     console.log(personData.map(i => `${i.name}  ${i.age}` ));
 
-console.log("\nreduce");
-    console.log(personData.reduce((accumulator, currentValue) => accumulator.age + currentValue.age));
+console.log("\nreduce:");
+    console.log(personData.map(i => parseInt(`${i.age}`)).reduce((accumulator, currentValue) => accumulator + currentValue));
 
 console.log("\n<------------------------------------->\n");
