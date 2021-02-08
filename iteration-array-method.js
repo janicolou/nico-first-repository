@@ -1,6 +1,3 @@
-const {clear} = require('console');
-const { Z_FILTERED } = require('zlib');
-//const fetch = require('node-fetch');
 const personData = require('./sample-data.json');
 
 console.log("\n<------------------------------------------------------->");
