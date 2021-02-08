@@ -7,24 +7,19 @@ console.log("\n<------------------------------------------------------->");
 console.log("Printing out all of the data using iteration methods");
 
 console.log("\nfor:");
-for (let i = 0; i < personData.length; i++){
+for (let i = 0; i < personData.length; i++)
     console.log(personData[i]);
-}
 
 console.log("\nfor in:");
-for (const i in personData){
+for (const i in personData)
     console.log(personData[i]);
-}
 
 console.log("\nfor of:");
-for(const i of personData){
+for(const i of personData)
     console.log(i);
-}
 
 console.log("\nfor each:");
-personData.forEach(i => {
-    console.log(i);
-});
+personData.forEach(i => console.log(i));
 
 console.log("\nwhile:");
 let i = 0;
