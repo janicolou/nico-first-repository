@@ -29,7 +29,7 @@ objMethods = {
     console.log("\nfilter:");
     console.log(personData.filter((i) => i.city === "Malasiqui"));
   },
-  getNmap: function () {
+  getMap: function () {
     console.log("\nmap:");
     console.log(personData.map((i) => `${i.name}  ${i.age}`));
   },
@@ -43,4 +43,12 @@ objMethods = {
   },
 };
 
+// testing grounds
+objMethods.getFor();
+objMethods.getForIn();
+objMethods.getForOf();
+objMethods.getForEach();
+objMethods.getWhile();
+objMethods.getFilter();
+objMethods.getMap();
 objMethods.getReduce();
